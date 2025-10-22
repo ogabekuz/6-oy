@@ -1,8 +1,3 @@
----
-
-###  README.md (GitHub uchun tayyor)
-
-```markdown
 #  Vazifa — Landing Page (HTML + CSS)
 
 Bu loyiha oddiy **Landing Page** (bir sahifali sayt) bo‘lib, foydalanuvchiga xizmat yoki mahsulot haqida ma’lumot berish uchun yaratilgan.  
